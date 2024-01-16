@@ -42,6 +42,7 @@ function goTown() {
     text.innerText = "You enter the store.";
   }
   
+  
   function goCave() {
     console.log("Going to cave.");
   }
